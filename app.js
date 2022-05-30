@@ -53,4 +53,4 @@ document
     }
   });
 
-weather.fetchWeather("mexico");
+weather.fetchWeather("Mexico");
